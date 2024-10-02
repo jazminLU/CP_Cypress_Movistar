@@ -1,0 +1,14 @@
+{
+    "email": "jazminTest@yopmail.com",
+    "firstname": "test",
+    "lastname": "test",
+    "dni": "12345678",
+    "gender": "female",
+    "birthdate": {
+      "day": "02",
+      "month": "Enero",
+      "year": "1980"
+    },
+    "celular": "3512000033"
+  }
+  
